@@ -26,11 +26,10 @@ body {
 	overflow: auto;
 }
 
-table tbody, .main_column, .sidebar, .box, .thin, .pad, #threadpoll, #poll {
+table tbody, .main_column, .box, .thin, .pad, #threadpoll, #poll {
 	color: #ffffff;
     background-color: #000; 
 }
-
 
 /* Common elements */
 
@@ -100,7 +99,7 @@ h1 a:hover, h2 a:hover, h3 a:hover {
 
 .box h1, .box h2, .box h3, .box h4
 .box2 h1, .box2 h2, .box2 h3, .box2 h4 {
-	color: #000;
+	color: #fff;
 }
 
 .size3, .size4, .size5, .size6, .size7 {
@@ -213,7 +212,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 #logo {
 	width: 141px;
 	height: 69px;
-	background: url('https://www.dropbox.com/s/22np713z4pgeh41/logo.png?dl=1') no-repeat top left;
+	background: url('https://www.dropbox.com/s/fbkfs7guyimj2qp/logo.png?dl=1') no-repeat top left;
     background-size: 100%;
 	margin: 66px 0 30px 35px;
 	position: absolute;
@@ -706,7 +705,7 @@ p.min_padding {
 
 .box2 {
 	font-size: 14px;
-	background-color: #ffffff;
+	background-color: #000;
 	margin-bottom: 10px;
 }
 
